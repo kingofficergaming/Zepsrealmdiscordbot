@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["⚠️The bot has been having some bugs, our dev team is looking into it."];
+const statusMessages = ["https://dsc.gg/zepsrealm"];
 
 
 let currentIndex = 0;
@@ -48,7 +48,7 @@ function updateStatusAndSendMessages() {
   });
 
   
-  const textChannel = client.channels.cache.get(channelId);
+  const textChannel = client.channels.cache.get(1223914687331041352);
 
   if (textChannel instanceof TextChannel) {
    
