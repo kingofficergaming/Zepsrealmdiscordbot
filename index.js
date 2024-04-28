@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["https://dsc.gg/zepsrealm"];
+const statusMessages = ["Felling cooler than the real Ryx."];
 
 
 let currentIndex = 0;
