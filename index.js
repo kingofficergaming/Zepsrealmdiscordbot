@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🛠️ Created by kingofficer"];
+const statusMessages = ["Playing Most Wanted Roleplay"];
 
 
 let currentIndex = 0;
