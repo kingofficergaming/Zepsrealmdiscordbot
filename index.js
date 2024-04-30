@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Felling cooler than the real Ryx."];
+const statusMessages = ["🛠️ Created by kingofficer"];
 
 
 let currentIndex = 0;
