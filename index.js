@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Most Wanted Roleplay"];
+const statusMessages = ["Playing Emerald Reformed Roleplay"];
 
 
 let currentIndex = 0;
