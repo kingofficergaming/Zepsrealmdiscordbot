@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Emerald Reformed Roleplay"];
+const statusMessages = ["dsc.gg/zepsrealm","Watching you leveling up","Watching the magic of Zepstro"];
 
 
 let currentIndex = 0;
