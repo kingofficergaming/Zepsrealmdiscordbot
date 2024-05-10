@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["https://dsc.gg/zepsrealm"];
+const statusMessages = ["dsc.gg/zepsrealm","Welcoming you to Zep's Realm","Saying goodbye to you when you leave from Zep's Realm"];
 
 
 let currentIndex = 0;
